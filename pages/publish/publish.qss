@@ -1,0 +1,12 @@
+.page__bd{background: #efefef;}
+.weui-cells{
+  line-height: 2.41176471;
+}
+.weui-cells__title{padding-top:.3rem;margin-top:0;font-size: 16px;height: 25px;}
+.radio-group{padding: 10px 0px !important;}
+.weui-label{color:black}
+.radio text{margin:0rpx 8rpx;font-size: 14px;}
+.radio{margin-right: 2rpx;}
+.weui-btn-area {margin: 10px 16px 8px；}
+.weui-btn{background: #FF3300!important;color:#efefef!important;}
+.weui-input{overflow:hidden;}

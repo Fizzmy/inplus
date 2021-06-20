@@ -1,0 +1,63 @@
+{
+  "pages":[
+    "pages/database/database",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/mine/mine",
+    "pages/mainPage/mainPage",
+    "pages/publish/publish",
+    "pages/detail/detail",
+    "pages/verify/verify",
+    "pages/myPassage/myPassage",
+    "pages/passageWork/0/0",
+    "pages/passageWork/1/1",
+    "pages/passageWork/2/2",
+    "pages/passageWork/3/3",
+    "pages/passageWork/4/4",
+    "pages/passageWork/5/5",
+    "pages/passageWork/6/6",
+    "pages/passageWork/7/7",
+    "pages/passageWork/8/8",
+    "pages/company/0/0",
+    "pages/company/1/1",
+    "pages/company/2/2",
+    "pages/company/3/3",
+    "pages/company/4/4",
+    "pages/company/5/5",
+    "pages/company/6/6",
+    "pages/company/7/7",
+    "pages/company/8/8",
+    "pages/company/9/9"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "In+社区",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+  "backgroundColor": "#fff",
+  "color": "#A0A0A0",
+  "selectedColor": "#FF3300",
+    "list": [
+      {
+        "pagePath": "pages/database/database",
+        "text": "数据库",
+        "iconPath":"/images/database.png",
+        "selectedIconPath":"/images/databaseSelect.png"
+      },
+      {
+        "pagePath": "pages/mainPage/mainPage",
+        "text": "主页",
+        "iconPath":"/images/home.png",
+        "selectedIconPath":"/images/homeSelect.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath":"/images/mine.png",
+        "selectedIconPath":"/images/mineSelect.png"
+      }
+    ]
+  }
+}
